@@ -19,8 +19,8 @@ My current research interests lie in **acoustic sensing**, including signal proc
 
 ## Education
 
-- **M.S. in Electronic Information**, [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), School of Semiconductor (National School of Excellence Engineer)  
+- **M.S. in Electronic and Information Engineering**, [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), College of Semiconductors (National Graduate College for Engineers)  
   *2024 – 2027*  
 
-- **B.S. in Electronic Information**, [Jinan University](https://www.jnu.edu.cn/)  
+- **B.S. in Computer Science and Technology**, [Jinan University](https://www.jnu.edu.cn/)  
   *2020 – 2024*  
