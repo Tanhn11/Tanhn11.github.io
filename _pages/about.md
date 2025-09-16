@@ -1,8 +1,12 @@
 ---
 layout: archive
-title: "About"
-permalink: /about/
+title: "About Me"
+permalink: /
+excerpt: "About Me"
 author_profile: true
+redirect from:
+   - /about/
+   - /about.html
 ---
 
 ## About Me
